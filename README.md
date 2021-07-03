@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 
   
   
-![portfolio](https://orikage.github.io/orikage.portfolio/)
+[this is my fucking portfolio](https://orikage.github.io/orikage.portfolio/)
